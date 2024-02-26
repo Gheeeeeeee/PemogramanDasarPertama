@@ -19,4 +19,5 @@ int main()
 	//display 'Luasnya adalah = ' + nLuas
 		cout << "lebarnya adalah = " << nLuas << endl;
 
+		//yahaha wahyu
 }//end
