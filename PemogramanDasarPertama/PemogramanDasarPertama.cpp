@@ -19,5 +19,5 @@ int main()
 	//display 'Luasnya adalah = ' + nLuas
 		cout << "lebarnya adalah = " << nLuas << endl;
 
-		//yahaha wahyu
+		// nama = gheo putra noven nim = 20230140058
 }//end
